@@ -1,0 +1,47 @@
+C:\Users\Owner\Desktop\Online Bookshop\bin\Debug\net6.0\Online Bookshop.exe
+C:\Users\Owner\Desktop\Online Bookshop\bin\Debug\net6.0\Online Bookshop.deps.json
+C:\Users\Owner\Desktop\Online Bookshop\bin\Debug\net6.0\Online Bookshop.runtimeconfig.json
+C:\Users\Owner\Desktop\Online Bookshop\bin\Debug\net6.0\Online Bookshop.dll
+C:\Users\Owner\Desktop\Online Bookshop\bin\Debug\net6.0\Online Bookshop.pdb
+C:\Users\Owner\Desktop\Online Bookshop\obj\Debug\net6.0\Online Bookshop.csproj.AssemblyReference.cache
+C:\Users\Owner\Desktop\Online Bookshop\obj\Debug\net6.0\Online Bookshop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Owner\Desktop\Online Bookshop\obj\Debug\net6.0\Online Bookshop.AssemblyInfoInputs.cache
+C:\Users\Owner\Desktop\Online Bookshop\obj\Debug\net6.0\Online Bookshop.AssemblyInfo.cs
+C:\Users\Owner\Desktop\Online Bookshop\obj\Debug\net6.0\Online Bookshop.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Desktop\Online Bookshop\obj\Debug\net6.0\Online Bookshop.dll
+C:\Users\Owner\Desktop\Online Bookshop\obj\Debug\net6.0\refint\Online Bookshop.dll
+C:\Users\Owner\Desktop\Online Bookshop\obj\Debug\net6.0\Online Bookshop.pdb
+C:\Users\Owner\Desktop\Online Bookshop\obj\Debug\net6.0\Online Bookshop.genruntimeconfig.cache
+C:\Users\Owner\Desktop\Online Bookshop\obj\Debug\net6.0\ref\Online Bookshop.dll
+C:\Users\Owner\Desktop\Online Books\bin\Debug\net6.0\Online Bookshop.exe
+C:\Users\Owner\Desktop\Online Books\bin\Debug\net6.0\Online Bookshop.deps.json
+C:\Users\Owner\Desktop\Online Books\bin\Debug\net6.0\Online Bookshop.runtimeconfig.json
+C:\Users\Owner\Desktop\Online Books\bin\Debug\net6.0\Online Bookshop.dll
+C:\Users\Owner\Desktop\Online Books\bin\Debug\net6.0\Online Bookshop.pdb
+C:\Users\Owner\Desktop\Online Books\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Owner\Desktop\Online Books\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Owner\Desktop\Online Books\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Owner\Desktop\Online Books\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Owner\Desktop\Online Books\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Owner\Desktop\Online Books\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Owner\Desktop\Online Books\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Owner\Desktop\Online Books\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Owner\Desktop\Online Books\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Owner\Desktop\Online Books\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Owner\Desktop\Online Books\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\Owner\Desktop\Online Books\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Owner\Desktop\Online Books\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\Owner\Desktop\Online Books\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Owner\Desktop\Online Books\bin\Debug\net6.0\MySqlConnector.dll
+C:\Users\Owner\Desktop\Online Books\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Owner\Desktop\Online Books\obj\Debug\net6.0\Online Bookshop.csproj.AssemblyReference.cache
+C:\Users\Owner\Desktop\Online Books\obj\Debug\net6.0\Online Bookshop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Owner\Desktop\Online Books\obj\Debug\net6.0\Online Bookshop.AssemblyInfoInputs.cache
+C:\Users\Owner\Desktop\Online Books\obj\Debug\net6.0\Online Bookshop.AssemblyInfo.cs
+C:\Users\Owner\Desktop\Online Books\obj\Debug\net6.0\Online Bookshop.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Desktop\Online Books\obj\Debug\net6.0\Online Bookshop.csproj.CopyComplete
+C:\Users\Owner\Desktop\Online Books\obj\Debug\net6.0\Online Bookshop.dll
+C:\Users\Owner\Desktop\Online Books\obj\Debug\net6.0\refint\Online Bookshop.dll
+C:\Users\Owner\Desktop\Online Books\obj\Debug\net6.0\Online Bookshop.pdb
+C:\Users\Owner\Desktop\Online Books\obj\Debug\net6.0\Online Bookshop.genruntimeconfig.cache
+C:\Users\Owner\Desktop\Online Books\obj\Debug\net6.0\ref\Online Bookshop.dll
